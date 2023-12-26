@@ -1,0 +1,25 @@
+{
+  "name": "knowledge-base",
+  "version": "1.0.0",
+  "description": "Knowledge Base For Your Source Code",
+  "main": "index.js",
+  "scripts": {
+    "app": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guseyn/knowledge-base.git"
+  },
+  "keywords": [
+    "qa"
+  ],
+  "author": "@guseyn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Guseyn/knowledge-base/issues"
+  },
+  "homepage": "https://github.com/Guseyn/knowledge-base#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
